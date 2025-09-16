@@ -1,0 +1,6 @@
+Super Accounts represent a leap forward in smart account technology tailored specifically for the Superchain. Developed by the Superchain Eco team and powered by Safe (a leading multi-signature wallet protocol), these are native smart accounts that go beyond traditional externally owned accounts (EOAs). They enable users to track, reward, and engage in on-chain activities across the Superchain in a unified way.At its core, a Super Account is a Superchain-native smart account that:Tracks Participation: Monitors user actions like transactions, deployments, and interactions on OP Chains.
+Awards Points and Ranks: Users earn Superchain Points for "meaningful" contributions, such as building dApps, providing liquidity, or participating in governance.
+Evolves with Levels: As points accumulate, accounts level up, unlocking perks like entry to weekly raffles, app discounts, and priority access to ecosystem programs.
+
+This system is built on open-source solutions, including integrations with Safe{Core} Protocol, ensuring security and transparency. Unlike generic wallets, Super Accounts are ecosystem-specific, providing a verifiable "passport" to a user's Superchain involvement—making them invaluable for projects seeking engaged builders and users.
+
